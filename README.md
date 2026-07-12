@@ -39,7 +39,7 @@ This project analyzes the **Zomato restaurant dataset**, covering restaurants ac
 ### 🌍 India Dominates the Dataset
  
 <div align="center">
-  <img src="images/pie_chart.png" alt="Country Distribution Pie Chart" width="500"/>
+  <img src="images/pie chart.png" alt="Country Distribution Pie Chart" width="500"/>
 </div>
 Out of 9,551 restaurants, **8,652 are based in India** — meaning any model or insight here is heavily India-centric, with limited signal from other countries.
  
@@ -56,7 +56,7 @@ Restaurants are heavily concentrated in the **Delhi-NCR region**.
 ### ⭐ Rating Distribution
  
 <div align="center">
-  <img src="images/aggregate_rating.png" alt="Aggregate Rating Distribution" width="650"/>
+  <img src="images/aggregate rating.png" alt="Aggregate Rating Distribution" width="650"/>
 </div>
 | Rating Band | Color | Meaning | Count |
 |---|---|---|---:|
@@ -119,7 +119,7 @@ All other countries in the dataset show **zero online delivery adoption**, makin
 ### 📈 Actual vs Predicted (Random Forest)
  
 <div align="center">
-  <img src="images/random_forest_actual_vs_predicted.png" alt="Random Forest Actual vs Predicted Rating" width="650"/>
+  <img src="images/random forest actual vs predicted.png" alt="Random Forest Actual vs Predicted Rating" width="650"/>
 </div>
 Points cluster tightly along the diagonal — confirming the high R² visually.
  
@@ -129,7 +129,7 @@ Linear Regression assumes a straight-line relationship between features and rati
 ### 🔝 Top 10 Feature Importances (Random Forest)
  
 <div align="center">
-  <img src="images/top_10_important_features.png" alt="Top 10 Feature Importances" width="650"/>
+  <img src="images/top 10 important features.png" alt="Top 10 Feature Importances" width="650"/>
 </div>
 ---
  
@@ -158,7 +158,7 @@ Linear Regression assumes a straight-line relationship between features and rati
  
 ---
  
-## 📂 Project Structure
+📂 Project Structure
  
 ```
 ├── zomato.csv                          # Restaurant dataset
@@ -176,7 +176,7 @@ Linear Regression assumes a straight-line relationship between features and rati
 ---
  
 <div align="center">
-### ⭐ If you found this project useful, consider giving it a star!
+⭐ If you found this project useful, consider giving it a star!
  
 </div>
  
